@@ -1,14 +1,8 @@
-# Sample Hardhat Project
+Merkle root: 0x2da0f0749e511349b69ba1adf37a2c38702c54989b11d55a6f29a91600be968a
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
-# merkleroot_airdrop
+Value: [ '0x5B38Da6a701c568545dCfcB03FcB875f56beddC4', '1000000000000000000' ]
+Proof: [
+  '0x06520f243871c7edd3c985634bc8170778df8ce64e5c39ded178a1d50ab86309',
+  '0x716caf480389aa3500e4248606549ebce74e0ec01db2d3c247c81cfbcd33b9d3'
+]
+Merkle Root: 0x2da0f0749e511349b69ba1adf37a2c38702c54989b11d55a6f29a91600be968a
